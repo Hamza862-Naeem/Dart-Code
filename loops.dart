@@ -8,6 +8,6 @@ while(x<5)   {      //Test loop control variable
   x++; //Change the loop control variable
 //x+=2;
 }
-
+//
 
 }
