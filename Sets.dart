@@ -3,6 +3,7 @@
 //list can contain duplicate values
 
 void  main() {
+  // ignore: equal_elements_in_set
   var Lang={"Russian","Urdu","French","Urdu"};
   print(Lang);
 
